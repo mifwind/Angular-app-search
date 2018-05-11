@@ -1,6 +1,6 @@
 # AppSearch
 
-Educational app. App for serachin profiles on Githab.
+Educational app. App for searching profiles on Githab.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
